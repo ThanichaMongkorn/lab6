@@ -2,7 +2,6 @@
 #include<cmath>
 using namespace std;
     
-    
     double deg2rad(double a1){
         return a1*(M_PI/180);
         }
